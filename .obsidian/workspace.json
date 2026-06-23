@@ -1,28 +1,14 @@
 {
   "main": {
-    "id": "7089d6f638c323ec",
+    "id": "d0018df7d2a708b2",
     "type": "split",
     "children": [
       {
-        "id": "2b3ac325aa5a623a",
+        "id": "01e0617ce4c52531",
         "type": "tabs",
         "children": [
           {
-            "id": "142235b658742632",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "QueryMind_CaseStudy_Cascade.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "QueryMind_CaseStudy_Cascade"
-            }
-          },
-          {
-            "id": "fb758ef59c9ec2fe",
+            "id": "6799c0afd5749fbb",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -33,38 +19,21 @@
               "title": "Drawing 2026-06-23 22.49.30.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "8e580f40037ad8e2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c63c661c0dbcfc7b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
         ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6249fbc517bf2a11",
+    "id": "6a271811a3bf2d7e",
     "type": "split",
     "children": [
       {
-        "id": "6c6b0d9cc737abee",
+        "id": "ce2f5b3724a6a12a",
         "type": "tabs",
         "children": [
           {
-            "id": "60a224ef7343bb66",
+            "id": "f338406fdd7dcae2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +46,7 @@
             }
           },
           {
-            "id": "f3d208f7a144bb5c",
+            "id": "635d7733a7629668",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,7 +63,7 @@
             }
           },
           {
-            "id": "a953d651a575b4fa",
+            "id": "abcd6e5b65f126c6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,20 +79,19 @@
     "width": 300
   },
   "right": {
-    "id": "7fb17a11fb0db1d3",
+    "id": "005213ece2fe69c2",
     "type": "split",
     "children": [
       {
-        "id": "f3804736e2866d19",
+        "id": "e2c0ea2dd08d5cc5",
         "type": "tabs",
         "children": [
           {
-            "id": "44f9114dddbe0ecf",
+            "id": "d9cdbd8ee98b00e6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2026-06-23 22.49.30.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,25 +101,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2026-06-23 22.49.30.excalidraw"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "9ff4e60a61fb0256",
+            "id": "74f4fd560b69d455",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2026-06-23 22.49.30.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2026-06-23 22.49.30.excalidraw"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "0fe124d86890afb5",
+            "id": "7bf77b7917a36e3c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -166,7 +133,7 @@
             }
           },
           {
-            "id": "87716170534c906f",
+            "id": "ff8b5805f4bb2cf3",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -180,18 +147,18 @@
             }
           },
           {
-            "id": "1fd0bac09da305f4",
+            "id": "f9e584760466c673",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2026-06-23 22.49.30.excalidraw.md",
+                "file": "Untitled.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2026-06-23 22.49.30.excalidraw"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -214,12 +181,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "60a224ef7343bb66",
+  "active": "6799c0afd5749fbb",
   "lastOpenFiles": [
+    "Sabih-Khan-CV (1).pdf",
     "Excalidraw/Drawing 2026-06-23 22.49.30.excalidraw.md",
-    "QueryMind_CaseStudy_Cascade.md",
-    "Excalidraw",
     "Welcome.md",
-    "Sabih-Khan-CV (1).pdf"
+    "Excalidraw",
+    "QueryMind_CaseStudy_Cascade.md",
+    "Untitled.md",
+    "query-mind/fyp-discussion.canvas",
+    "query-mind/QueryMind_CaseStudy_Cascade.md",
+    "query-mind/2510.01887v1.pdf",
+    "query-mind",
+    "Untitled.base"
   ]
 }

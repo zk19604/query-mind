@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "QueryMind_CaseStudy_Cascade"
             }
+          },
+          {
+            "id": "5df791280d7e6471",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "8e580f40037ad8e2",
@@ -226,12 +240,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fb758ef59c9ec2fe",
+  "active": "5df791280d7e6471",
   "lastOpenFiles": [
+    "Untitled.md",
+    "QueryMind_CaseStudy_Cascade.md",
     "Excalidraw/Drawing 2026-06-23 22.49.30.excalidraw.md",
     "Sabih-Khan-CV (1).pdf",
     "Welcome.md",
-    "QueryMind_CaseStudy_Cascade.md",
     "Excalidraw"
   ]
 }

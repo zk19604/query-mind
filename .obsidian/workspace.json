@@ -25,12 +25,14 @@
             "id": "fb758ef59c9ec2fe",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-06-23 22.49.30.excalidraw.md"
+                "file": "QueryMind_CaseStudy_Cascade.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-06-23 22.49.30.excalidraw"
+              "icon": "lucide-file",
+              "title": "QueryMind_CaseStudy_Cascade"
             }
           }
         ],
@@ -123,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2026-06-23 22.49.30.excalidraw.md",
+                "file": "QueryMind_CaseStudy_Cascade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2026-06-23 22.49.30.excalidraw"
+              "title": "Backlinks for QueryMind_CaseStudy_Cascade"
             }
           },
           {
@@ -142,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2026-06-23 22.49.30.excalidraw.md",
+                "file": "QueryMind_CaseStudy_Cascade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2026-06-23 22.49.30.excalidraw"
+              "title": "Outgoing links from QueryMind_CaseStudy_Cascade"
             }
           },
           {
@@ -185,21 +187,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2026-06-23 22.49.30.excalidraw.md",
+                "file": "QueryMind_CaseStudy_Cascade.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2026-06-23 22.49.30.excalidraw"
+              "title": "Outline of QueryMind_CaseStudy_Cascade"
+            }
+          },
+          {
+            "id": "a2868574387118cf",
+            "type": "leaf",
+            "state": {
+              "type": "trello-plugin",
+              "state": {},
+              "icon": "trello-plugin-icon-trello",
+              "title": "Trello"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,12 +226,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "60a224ef7343bb66",
+  "active": "fb758ef59c9ec2fe",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-06-23 22.49.30.excalidraw.md",
-    "QueryMind_CaseStudy_Cascade.md",
-    "Excalidraw",
+    "Sabih-Khan-CV (1).pdf",
     "Welcome.md",
-    "Sabih-Khan-CV (1).pdf"
+    "QueryMind_CaseStudy_Cascade.md",
+    "Excalidraw"
   ]
 }

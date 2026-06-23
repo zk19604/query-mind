@@ -1,54 +1,70 @@
 {
   "main": {
-    "id": "d0018df7d2a708b2",
+    "id": "7089d6f638c323ec",
     "type": "split",
     "children": [
       {
-        "id": "01e0617ce4c52531",
+        "id": "2b3ac325aa5a623a",
         "type": "tabs",
         "children": [
           {
-            "id": "6799c0afd5749fbb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Sabih-Khan-CV (1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Sabih-Khan-CV (1)"
-            }
-          },
-          {
-            "id": "18882605fd1cc5a0",
+            "id": "142235b658742632",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "QueryMind_CaseStudy_Cascade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "QueryMind_CaseStudy_Cascade"
+            }
+          },
+          {
+            "id": "fb758ef59c9ec2fe",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-06-23 22.49.30.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-06-23 22.49.30.excalidraw"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "8e580f40037ad8e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c63c661c0dbcfc7b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6a271811a3bf2d7e",
+    "id": "6249fbc517bf2a11",
     "type": "split",
     "children": [
       {
-        "id": "ce2f5b3724a6a12a",
+        "id": "6c6b0d9cc737abee",
         "type": "tabs",
         "children": [
           {
-            "id": "f338406fdd7dcae2",
+            "id": "60a224ef7343bb66",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -61,7 +77,7 @@
             }
           },
           {
-            "id": "635d7733a7629668",
+            "id": "f3d208f7a144bb5c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -78,7 +94,7 @@
             }
           },
           {
-            "id": "abcd6e5b65f126c6",
+            "id": "a953d651a575b4fa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,19 +110,20 @@
     "width": 300
   },
   "right": {
-    "id": "005213ece2fe69c2",
+    "id": "7fb17a11fb0db1d3",
     "type": "split",
     "children": [
       {
-        "id": "e2c0ea2dd08d5cc5",
+        "id": "f3804736e2866d19",
         "type": "tabs",
         "children": [
           {
-            "id": "d9cdbd8ee98b00e6",
+            "id": "44f9114dddbe0ecf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2026-06-23 22.49.30.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,24 +133,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Drawing 2026-06-23 22.49.30.excalidraw"
             }
           },
           {
-            "id": "74f4fd560b69d455",
+            "id": "9ff4e60a61fb0256",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2026-06-23 22.49.30.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Drawing 2026-06-23 22.49.30.excalidraw"
             }
           },
           {
-            "id": "7bf77b7917a36e3c",
+            "id": "0fe124d86890afb5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -148,7 +166,7 @@
             }
           },
           {
-            "id": "ff8b5805f4bb2cf3",
+            "id": "87716170534c906f",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -162,18 +180,18 @@
             }
           },
           {
-            "id": "f9e584760466c673",
+            "id": "1fd0bac09da305f4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.base",
+                "file": "Excalidraw/Drawing 2026-06-23 22.49.30.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Drawing 2026-06-23 22.49.30.excalidraw"
             }
           }
         ]
@@ -192,19 +210,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f338406fdd7dcae2",
+  "active": "60a224ef7343bb66",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-06-23 22.49.30.excalidraw.md",
     "QueryMind_CaseStudy_Cascade.md",
-    "Untitled.md",
+    "Excalidraw",
     "Welcome.md",
-    "Sabih-Khan-CV (1).pdf",
-    "query-mind/fyp-discussion.canvas",
-    "query-mind/QueryMind_CaseStudy_Cascade.md",
-    "query-mind/2510.01887v1.pdf",
-    "query-mind",
-    "Untitled.base"
+    "Sabih-Khan-CV (1).pdf"
   ]
 }
